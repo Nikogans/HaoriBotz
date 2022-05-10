@@ -34,10 +34,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
-global.owner = ['6285158866902'] // Put your number here //owner eval
-global.kontak = ['6285158866902','6282186172016'] //Ketika ada yang ngetik #owner
-global.mods = ['6285158866902'] // Want some help?
-global.prems = ['6285158866902'] // Premium user has unlimited limit
+global.owner = ['6282146218274'] // Put your number here //owner eval
+global.kontak = ['6282146218274','6282146218274'] //Ketika ada yang ngetik #owner
+global.mods = ['6282146218274'] // Want some help?
+global.prems = ['6282146218274'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -75,21 +75,21 @@ bearkey = 'buy'
 namaig = 'https://instagram.com/drak_ipul123'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = ''
-namakontak2 = ''
+namakontak1 = 'RielkiXd'
+namakontak2 = 'RielkiXd'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '▧ Hασrι - Chαn' // ganti aja
-global.author = '© Zîѵғurr' // ganti aja
+global.packname = '▧ Rielbotz ©' // ganti aja
+global.author = '© RielkiXd👺' // ganti aja
 
 //yyy
-bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
-footer = '\nHᴀᴏʀɪBᴏᴛᴢ 🔭'
-namabot = '𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾'
-namalu = 'Zivfurr'
-global.botwm = `𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾`//UBAH JADI NAMAMU
+bc = 'RIELBOTZ' //King Of Bear Broadcast
+footer = '\nRielBᴏᴛᴢ 🔭'
+namabot = 'Riel - 𝙱𝚘𝚝𝚣 🐾'
+namalu = 'RielkiXd👺'
+global.botwm = `Riel - 𝙱𝚘𝚝𝚣 🐾`//UBAH JADI NAMAMU
 
 
 // 

@@ -746,7 +746,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 ┴
 ✧
 ┬ 📮 *Note* :
-│Beri Jeda Yah Kak ^ω^
+│Beri Jeda Ya tod 🗿
 ╰━━━━━━━━━━━━━┈─ɞ
    ▌│█║▌║▌║║▌║▌║█│▌
 
@@ -764,7 +764,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
           "footerText": txtmenu,
 
-          "buttonText": "Klik Aku Kak",
+          "buttonText": "Klik cok",
 
           "listType": "SINGLE_SELECT",
 
@@ -776,7 +776,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "📊 › 𐐪- Status -𐑂",
 
-                                         "description": "Status Haoribotz",
+                                         "description": "Status Rielbotz",
 
                                          "rowId": ".mystat"
 
@@ -824,7 +824,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "💌 › 𐐪- Group Bot -𐑂",
 
-                                         "description": "Join Ke Grup Official Haoribotz",
+                                         "description": "Join Ke Grup Official Rielbotz",
 
                                          "rowId": ".gcbot"
 
@@ -1430,7 +1430,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
           "title": `✧────────···[ Dashboard ]···─────────✧`.trim(),
 
-          "description": `🎮 Ƙαɴɴα вσт `.trim(),
+          "description": `🤖 RielkiXd `.trim(),
 
           "footerText": 
 

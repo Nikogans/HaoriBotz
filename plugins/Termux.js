@@ -9,7 +9,7 @@ https://f-droid.org/en/packages/com.termux/
 
 ✧─────···───────✧
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Termux')).buffer(), ext, '🎮 𝙷𝚊𝚘𝚛𝚒𝚋𝚘𝚝𝚣 𝙸𝚜 𝚃𝚑𝚎 𝙱𝚎𝚜𝚝', 'Thx Haori 💌', 'Iya', 'Scrip 🔭', '.sc', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'Termux')).buffer(), ext, '🎮 Riel𝚋𝚘𝚝𝚣 𝙸𝚜 𝚃𝚑𝚎 𝙱𝚎𝚜𝚝', 'Thx Riel 💌', 'Iya', 'Scrip 🔭', '.sc', m)
 
 }
 handler.help = ['termux']

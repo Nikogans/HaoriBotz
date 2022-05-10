@@ -6,23 +6,7 @@ BIG THANKS TO
 •My ortu
 •Nurutomo
 •Adiwajshing
-•Ariffb
-•Amel
-•IrwanX
-•Dawnfrosty
-•Rteam1
-•Beniismael
-•Raditya 
-•AlyaaXzy (gua)
-•Furqan
-•Elyas
-•Rasel
-•Xteam
-•khael
-•Atenabot
-•Baka Botz
-•ZeeoneOfc
-•Zeks
+•RielKiXd 🗿
 •Rendycraft  
 •Nadin
 •Aca Mirabel

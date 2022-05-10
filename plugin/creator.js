@@ -8,7 +8,7 @@ remoteJid: 'status@broadcast'
 },
 message: {
 locationMessage: {
-name: 'Ini Kak Owner Haori OωO',
+name: 'Ini Kak Owner Riel OωO',
 jpegThumbnail: fs.readFileSync('./src/haori.jpg')
   }
  }
@@ -31,7 +31,7 @@ let list = []
 const buttonsMessage = {
     contentText: `
 Itu Owner Ku Kak >ω<
-*Sewa Bot 5k Permanent Chat Aja*
+*Sewa Bot 10k Permanent Chat Aja*
 `.trim(),    footerText: ``,
     buttons: buttons,
   headerType: 'EMPTY'
